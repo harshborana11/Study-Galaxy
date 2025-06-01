@@ -330,7 +330,7 @@ function pomodoroStart( studyTime, breakTime){
 
 
 let sourcesLofiRecords = [ 'n61ULEU7CO0' ,'TURbeWK2wwg'];
-let sourcesLofiEveryday= ['ezdP1lzsNUg','dzUHadgLiIY' , 'ZVEGvdh4-bM' , 'yKH7g4oupDE'  ,'MZhivjxcF-M','Zbd1PKd-J_o','1bPb0egItVI', 'lzqHzF1S1F4','taNGanhQ8zo','n4P3CLAxJiw', 'Wqm-qADZP3U', 'BMCHy-AyhkY', 'UbLSGl-W46E']
+let sourcesLofiEveryday= ['MWjfhgK1WHI','dzUHadgLiIY' , 'ZVEGvdh4-bM' , 'yKH7g4oupDE'  ,'MZhivjxcF-M','Zbd1PKd-J_o','1bPb0egItVI', 'lzqHzF1S1F4','taNGanhQ8zo','n4P3CLAxJiw', 'Wqm-qADZP3U', 'BMCHy-AyhkY', 'UbLSGl-W46E']
 // firstInstance.setSource(`https://www.youtube.com/watch?v=${sourcesLofiEveryday[0]}`)
 
 
